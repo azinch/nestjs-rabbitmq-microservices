@@ -14,7 +14,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A simple Billing system. Event-Driven Architecture with 3 NestJS microservices for User Authentication, Ordering & Billing. Tech stack: JWT, RabbitMQ, MongoDB, docker-compose.
 
 ## Installation
 
